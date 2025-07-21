@@ -16,27 +16,20 @@ The dataset is present inside the Simple Linear Regression folder.
 - **class_task.py**  
   Contains the main class tasks or assignments that apply or demonstrate the usage of the different regression models implemented in separate files.
 
+### Main dependencies:
+
+1. numpy
+2. pandas
+3. matplotlib
+4. scikit-learn
+
+### License
+This project is for educational purposes only.
+
 ## Requirements
 
 Install the necessary Python packages using:
 
 ```bash
 pip install -r requirements.txt
-
-Main dependencies:
-
-numpy
-
-pandas
-
-matplotlib
-
-scikit-learn
-
-License
-This project is for educational purposes only.
-
-vbnet
-Copy
-Edit
 
